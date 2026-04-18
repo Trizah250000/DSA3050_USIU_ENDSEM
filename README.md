@@ -295,16 +295,6 @@ Created this repository with all files and detailed README
 
 This project successfully delivered a complete Power BI analytical solution for Olist's e-commerce data. The solution meets all examination requirements:
 
-| Part | Marks | Status |
-|:---|:---|:---|
-| Part A: Data Acquisition | 10 | ✅ Complete |
-| Part B: Data Cleaning (11 transformations) | 20 | ✅ Complete |
-| Part C: Data Modeling (Star Schema) | 15 | ✅ Complete |
-| Part D: DAX Measures (11 measures, 2 columns) | 20 | ✅ Complete |
-| Part E: Dashboard Design (3 pages) | 20 | ✅ Complete |
-| Part F: Insights & Recommendations | 10 | ✅ Complete |
-| Part G: GitHub Documentation | 5 | ✅ Complete |
-
 ### Key Achievements
 - Built a star schema with 1 fact table and 5 dimension tables
 - Created 11 DAX measures including time intelligence and ranking
@@ -321,4 +311,4 @@ The dashboard enables Olist stakeholders to:
 
 ---
 
-## Repository Structure
+
