@@ -1,4 +1,3 @@
-# DSA3050_USIU_ENDSEM
 # Advanced Power BI Analytical Solution: Brazilian E-Commerce Performance Dashboard
 
 ## 1. Project Title
